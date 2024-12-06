@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Taulant Ndreka
 ======================================================================================================================================
 
-Aspiring Software Developer with a solid foundation in C programming and system development. Currently enrolled in a 1-year bootcamp at 42 Heilbronn, focused on solving complex software problems and building efficient applications. Experienced in developing custom libraries, implementing algorithms, and managing system-level tasks like process handling and inter-process communication. Adept at working in Linux environments, using tools like Git, and applying best practices in software development.
+Aspiring Software Developer with a solid background in C programming and system development. Currently in a 1-year bootcamp at 42 Heilbronn, focused on solving hard software problems and making good applications. Good at creating custom libraries, using algorithms, and handling system tasks like managing processes and communication between processes. Skilled in using Linux, Git, and following good practices in software development.
 
 *   🌍  I'm based in Heilbron, Germany
 *   ✉️  You can contact me at [ndrekalanti@gmail.com](mailto:ndrekalanti@gmail.com)
